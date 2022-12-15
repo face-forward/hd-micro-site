@@ -1,0 +1,71 @@
+[
+  {
+    "bodyStyle": "Truck",
+    "color": {
+      "exteriorColor": "Black",
+      "interiorColor": "Jet Black/Dark Ash, Vinyl Seat"
+    },
+    "fuel": "Gasoline",
+    "id": 663518540,
+    "image": {
+      "alt": "Certified 2019 Chevrolet Colorado W/T w/ WT Convenience Package",
+      "src": "https://images.autotrader.com/hn/c/a2949cd3b4a546b7957cc44193f056bf.jpg"
+    },
+    "listingType": "New",
+    "make": "Chevrolet",
+    "mileage": "346",
+    "model": "Colorado",
+    "mpgCity": 18,
+    "mpgHighway": 25,
+    "priceDetail": "$58,402",
+    "title": "New 2019 Chevrolet Colorado",
+    "transmission": "Automatic",
+    "year": 2019
+  },
+  {
+    "bodyStyle": "Coupe",
+    "color": {
+      "exteriorColor": "Black",
+      "interiorColor": "Jet Black/Dark Ash, Vinyl Seat"
+    },
+    "fuel": "Electric",
+    "id": 663594755,
+    "image": {
+      "alt": "Certified 2018 Chevrolet Bolt",
+      "src": "https://images.autotrader.com/scaler/304/228/hn/c/caa3776f3bc942648ee95550626bde23.jpg"
+    },
+    "listingType": "Certified",
+    "make": "Chevrolet",
+    "mileage": "17,239",
+    "model": "Bolt",
+    "mpgCity": 200,
+    "mpgHighway": 300,
+    "priceDetail": "$26,699",
+    "title": "Certified 2019 Chevrolet Bolt",
+    "transmission": "Automatic",
+    "year": 2019
+  },
+  {
+    "bodyStyle": "SUV",
+    "color": {
+      "exteriorColor": "Gray",
+      "interiorColor": "Beige, Leather Seat"
+    },
+    "fuel": "Gasoline",
+    "id": 123594755,
+    "image": {
+      "alt": "Certified 2018 Nissan Armada",
+      "src": "https://images.autotrader.com/scaler/408/306/hn/c/a98ea833a5b044388453ea59e406331c.jpg"
+    },
+    "listingType": "Certified",
+    "make": "Nissan",
+    "mileage": "17,239",
+    "model": "Armada",
+    "mpgCity": 15,
+    "mpgHighway": 18,
+    "priceDetail": "$86,399",
+    "title": "Certified 2020 Nissan Armada",
+    "transmission": "Automatic",
+    "year": 2020
+  }
+]
